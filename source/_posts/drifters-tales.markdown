@@ -4,7 +4,7 @@ title:  "Drifter's Tales"
 date:   2022-07-10 19:12:00 +0200
 categories: "Game Repack"
 ---
-<img src="https://i5.imageban.ru/thumbs/2022.07.16/07e94b57ea67a1cb204bfe46edfbf2ba.png"/> <br>
+<img src="https://i2.imageban.ru/out/2022/07/23/b75efddf9c1e167a28f6e37015359a0c.webp"/> <br>
 
 <a href="https://0a0bin.klowdee.host/?070e406f6c664851#5crf5SnkNVzC2PMaW9EDHDE1otSENTCQnbp2yujHUAA5">Download (Password: t4x4)</a> <br>
 
