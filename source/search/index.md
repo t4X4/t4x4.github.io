@@ -35,8 +35,7 @@ date: 2022-07-23 03:16:25
 <span style="color: #7E3FF2">#33</span> Totally Accurate Battle Simulator + BUG DLC <a href="/repack/2022/07/07/totally-acurate-battlegrounds">Download</a>
 <span style="color: #7E3FF2">#32</span> Horizon Chase Turbo + ALL DLCS <a href="/repack/2022/07/07/horizon-chase-turbo.html">Download</a>
 <span style="color: #7E3FF2">#31</span> Untitled Goose Game <a href="/repack/2022/07/07/untitled-goose-game.html">Download</a>
-<span style="color: #7E3FF2">#30</span> Bendy and the Ink Machine - Complete Edition
- <a href="/repack/2022/07/07/bendy-and-the-ink-machine.html">Download</a>
+<span style="color: #7E3FF2">#30</span> Bendy and the Ink Machine - Complete Edition <a href="/repack/2022/07/07/bendy-and-the-ink-machine.html">Download</a>
 <span style="color: #7E3FF2">#29</span> Hue <a href="/repack/2022/07/06/hue.html">Download</a>
 <span style="color: #7E3FF2">#28</span> Octodad: Dadliest Catch <a href="/repack/2022/07/06/octodad-dadliest-catch.html">Download</a>
 <span style="color: #7E3FF2">#27</span> Moontrain <a href="/repack/2022/07/05/moontrain.html">Download</a>
