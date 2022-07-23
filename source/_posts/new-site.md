@@ -3,7 +3,7 @@ title: New Site 📌
 categories: Other
 author: '-tARA'
 date: 2022-07-23 07:08:16
-pinned: true
+top: True
 ---
 
 The site got a pretty nice overhaul since I'm currently using Hexo instead of Jekyll to make it.
