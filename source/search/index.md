@@ -5,7 +5,7 @@ date: 2022-07-23 03:16:25
 
 <h4>This is a mostly plain-text index of all repacks. To search hit Ctrl + F</h4>
 
-
+<span style="color: #7E3FF2">#60</span> Endling - Extinction is Forever <a href="/2022/07/23/endling-exinction-is-forever">Download</a>
 <span style="color: #7E3FF2">#59</span> Hell Pie <a href="/2022/07/22/hell-pie">Download</a>
 <span style="color: #7E3FF2">#58</span> Mari and Bayu - The Road Home <a href="/2022/07/22/mari-and-bayu-the-road-home">Download</a>
 <span style="color: #7E3FF2">#57</span> Strategic Command: American Civil War <a href="/2022/07/22/strategic-command-american-civil-war">Download</a>
