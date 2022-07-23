@@ -103,3 +103,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+
+# DISQUS comments
+disqus_enabled: true
+disqus_shortname: t4x4
