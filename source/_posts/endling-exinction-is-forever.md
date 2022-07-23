@@ -1,5 +1,5 @@
 ---
-title: endling-exinction-is-forever
+title: "Endling - Extinction is Forever"
 categories: Game Repack
 author: '-tARA'
 date: 2022-07-23 07:29:25
