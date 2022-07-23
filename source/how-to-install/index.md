@@ -1,5 +1,5 @@
 ---
-title: how-to-install
+title: How to Install
 date: 2022-07-23 02:45:33
 ---
 All of my repacks are packaged in a zip store format, to extract them use a tool like <a href="https://www.7-zip.org/"> 7Zip </a> <br>
