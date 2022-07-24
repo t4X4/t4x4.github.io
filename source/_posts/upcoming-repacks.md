@@ -7,4 +7,4 @@ top: True
 ---
 
 <p style="font-size: 2rem; color: #7E3FF2">
-★ Zombie Shooting Star (5.23 GB) <br>
+★ House Party (2.84 GB) <br>
