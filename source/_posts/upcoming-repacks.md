@@ -7,4 +7,4 @@ top: True
 ---
 
 <p style="font-size: 2rem; color: #7E3FF2">
-★ Realms of Magic (1.89 GB) <br>
+★ The Suicide of Rachel Foster <br>
