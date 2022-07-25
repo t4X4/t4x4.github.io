@@ -7,4 +7,4 @@ top: True
 ---
 
 <p style="font-size: 2rem; color: #7E3FF2">
-★ The Suicide of Rachel Foster <br>
+★ The Suicide of Rachel Foster (5.11 GB)<br>
